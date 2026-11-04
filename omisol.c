@@ -2,8 +2,8 @@
 
 int main()
 {
-	double balance = 10000.00;
-	double amount;
+	float balance = 10000.00;
+	float amount;
 	int choice;
 	int successful_withdrawals = 0;
 
